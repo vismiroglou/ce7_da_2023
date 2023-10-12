@@ -161,3 +161,6 @@ cython_debug/
 
 # ffmpeg
 ffmpeg-6.0-essentials_build/
+
+#data
+data/
